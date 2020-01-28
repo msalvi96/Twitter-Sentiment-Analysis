@@ -7,4 +7,3 @@ prettytable==0.7.2
 Werkzeug==0.15.4
 gunicorn==19.9.0
 psycopg2==2.7.1
-uwsgi
