@@ -9,5 +9,5 @@ def index():
     tweets = store.tweets()
     return render_template('index.html', tweets=tweets)
 
-if __name__ == '__main__':
-    app.run(debug=False)
+# if __name__ == '__main__':
+#     app.run(debug=False)
